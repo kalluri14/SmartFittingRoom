@@ -22,15 +22,14 @@
 ---
 
 ## 📁 Project Structure
-
+</prev>
 SmartFittingRoom/
 ├── frame_capture.py # Captures webcam frames
 ├── frame_draw.py # Draws hand landmarks and calculates distances
 ├── smart_fitting.py # Main Streamlit application
 ├── sizechart.jpg # Reference image for size estimation
 └── README.md # Project documentation
-
-
+<prev>
 ---
 
 ## 🚀 Getting Started
